@@ -4772,3 +4772,7 @@ section {
 		background-position: center;
 	}
 }
+.current{
+	cursor: pointer;
+	color: #C19D60;
+}

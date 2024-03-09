@@ -131,8 +131,8 @@ function setClock(selector, endtime){
 }
 setClock('.countdown',timeEnd);
 }
-if(document.querySelector('.hero-menu_header fl-wrap gth')){
-    const tabs = document.querySelectorAll('.hero-menu_header fl-wrap gth');
+if(document.querySelector('.lihh')){
+    const tabs = document.querySelectorAll('.lihh');
     const tabContent = document.querySelectorAll('.tab-content');
     const tabParent = document.querySelector('.hero-menu_header');
     
